@@ -1,2 +1,2 @@
 # Google-Front-End
-Google Homepage - responsive web front-end with working search input.
+Google Homepage - HTML/CSS responsive web front-end with working search input made for CS50's web programming with Javascript and Python.
